@@ -1,11 +1,11 @@
 <h1 align="center"> Smart House App </h1>
 
-Projeto em Flutter do layout de um aplicativo para controlar os dispositos de uma Smart House
+Layout project in Flutter of an application to control the devices of a Smart House
 
-## Getting Started
+## About
 
-Esse projeto foi desenvolvido com:
+This project was developed with:
 
 -  Flutter
 
-Feito com base no tutorial do [Mitch Koko](https://www.youtube.com/watch?v=FMV8pbz0sN8).
+Made based on the tutorial: [Mitch Koko](https://www.youtube.com/watch?v=FMV8pbz0sN8).
