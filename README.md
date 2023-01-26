@@ -1,16 +1,11 @@
-# smarthouse
+<h1 align="center"> Smart House App </h1>
 
-A new Flutter project.
+Projeto em Flutter do layout de um aplicativo para controlar os dispositos de uma Smart House
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Esse projeto foi desenvolvido com:
 
-A few resources to get you started if this is your first Flutter project:
+-  Flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Feito com base no tutorial do [Mitch Koko](https://www.youtube.com/watch?v=FMV8pbz0sN8).
